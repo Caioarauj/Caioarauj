@@ -39,3 +39,6 @@
 <img src="https://raw.githubusercontent.com/Caioarauj/Caioarauj/output/snake.svg" alt="Snake animation" />
 
 ###
+![snake gif](https://github.com/Caioarauj/Caioarauj/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Caioarauj&repo=Caioarauj&theme=react)]
+(https://github.com/Caioarauj/Caioarauj)
