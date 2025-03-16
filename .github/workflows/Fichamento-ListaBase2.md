@@ -10,7 +10,7 @@ O artigo analisa as estratégias para melhorar a Integração Contínua (CI, do 
 Continuous Integration (integração contínua): Prática de desenvolvimento de software em que o código é integrado a um repositório compartilhado várias vezes ao dia. (Introdução)
 Time-to-feedback reduction (Redução do tempo de feedback): Estratégias que priorizam testes que provavelmente falharão, reduzindo o tempo até que um erro seja detectado. (Seção II)
 Computational-cost reduction (Redução de custo computacional): Abordagens que selecionam quais testes ou builds executar, economizando recursos computacionais. (Seção II)
-TravisTorrent: Base de dados utilizada no estudo, contendo histórico de builds de mais de 1.300 projetos. (Seção III)
+TravisTorrent: Conjunto de dados usado para analisar projetos de software hospedados no GitHub e testados no Travis CI, contendo histórico de builds de mais de 1.300 projetos. (Seção III)
 Trade-off entre custo e confiabilidade: Algumas técnicas de economia podem falhar na detecção de erros importantes. (Seção VI)
 
 3. Fichamento de Citações
