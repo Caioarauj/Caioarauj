@@ -1,7 +1,8 @@
 What Helped, and What Did Not? An Evaluation of the Strategies to Improve Continuous Integration
 
 Referência:
- Xianhao Jin, Francisco Servant. What Helped, and What Did Not? An Evaluation of the Strategies to Improve Continuous Integration, in 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE), DOI: 10.1109/ICSE43902.2021.00031.
+ Xianhao Jin, Francisco Servant. What Helped, and What Did Not? An Evaluation of the Strategies to Improve Continuous Integration, in 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE), [10.1109/ICSE43902.2021.00031](https://ieeexplore.ieee.org/document/9401965).
+
 
 1. Fichamento de Conteúdo
 O artigo analisa as estratégias para melhorar a Integração Contínua (CI, do inglês Continuous Integration), focando na redução de tempo de feedback e custo computacional. O estudo avaliou 14 variantes de 10 técnicas de priorização e seleção, tanto em nível de testes quanto de builds, utilizando 100 projetos reais do TravisTorrent. Foram analisadas métricas como tempo economizado, número de builds salvos e impacto na detecção de falhas. Os autores identificaram trade-offs entre economizar recursos e atrasar a identificação de falhas, destacando que técnicas de seleção em nível de build são mais eficazes na redução de custos, enquanto técnicas de priorização de testes oferecem o melhor tempo de resposta. O estudo também apontou que estratégias treinadas em dados de múltiplos projetos têm um desempenho inferior, pois se tornam mais conservadoras na detecção de builds que podem ser ignorados. Como conclusão, os autores sugerem combinar abordagens de priorização e seleção para maximizar os benefícios da CI.
