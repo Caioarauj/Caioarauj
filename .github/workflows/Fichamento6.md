@@ -1,0 +1,29 @@
+Challenges and Opportunities in Integrating LLMs into Continuous Integration/Continuous Deployment (CI/CD) Pipelines
+
+Referência:
+Tianyi Chen. Challenges and Opportunities in Integrating LLMs into Continuous Integration/Continuous Deployment (CI/CD) Pipelines, in 2024 5th International Seminar on Artificial Intelligence, Networking and Information Technology (AINIT), 2024. DOI: [10.1109/AINIT61980.2024.10581784](https://ieeexplore.ieee.org/abstract/document/10581784?casa_token=NKhQG0990vsAAAAA:W3CUGj4LP9IBfO7BhwSERm7yJYO2CbgQ7jKEp7OXwmWnH3hhDE_h1X1brxrCGrRqbNBFWFXxl36u).
+
+1. Fichamento de Conteúdo
+
+O artigo explora os desafios e oportunidades de integrar Modelos de Linguagem de Grande Escala (LLMs, do inglês *Large Language Models*) em *pipelines* de Integração Contínua (CI, do inglês *continuous integration*)/Entrega Contínua (CD, do inglês *continuous deployment*). Os LLMs são poderosos para tarefas de processamento de linguagem natural (NLP, do inglês *natural language processing*), mas apresentam desafios como alto custo computacional, viés nos modelos e implicações éticas. O autor propõe um *framework* chamado LLMOps, um subconjunto de MLOps, para gerenciar o ciclo de vida de LLMs dentro de pipelines CI/CD. O estudo inclui um caso prático de integração de um LLM em um *pipeline* CI/CD para uma tarefa de sumarização de texto, usando Azure Machine Learning e Azure DevOps. Os resultados mostraram que a qualidade dos resumos melhorou após um ciclo de feedback humano, evidenciando que a adaptação contínua dos modelos é essencial para sua eficácia. O artigo conclui que, apesar dos desafios, a automação de LLMs em CI/CD pode melhorar a eficiência e confiabilidade de sistemas baseados em IA, desde que boas práticas de governança sejam aplicadas.
+
+2. Fichamento Bibliográfico
+
+LLMs, como GPT-3 e T5, são altamente eficazes em tarefas de NLP, mas exigem alto poder computacional para treinamento e inferência. (página 364)
+
+O conceito de LLMOps estende o MLOps, focando no gerenciamento e operação contínua de LLMs em produção. (página 365)
+
+A implementação de um pipeline CI/CD para LLMs melhora a qualidade das entregas, reduzindo erros e facilitando a atualização de modelos. (página 366)
+
+A retroalimentação humana desempenha um papel crítico no aprimoramento dos LLMs, permitindo refinamentos baseados em avaliações dos usuários. (página 367)
+
+A ética e a transparência no uso de LLMs são preocupações centrais, exigindo mecanismos para reduzir viés e garantir responsabilidade na geração de textos. (página 367)
+
+
+
+---
+
+3. Fichamento de Citações
+"Large Language Models (LLMs) are powerful neural network models that can perform various language-related tasks by generating natural language conditioned on a given input or prompt." (página 1)
+"Integrating LLMs into CI/CD pipelines can bring several benefits, such as: (1) Faster and more frequent delivery of LLM products or services, which can improve customer satisfaction and retention, as well as reduce time-to-market and costs. (2) Higher and more consistent quality of LLM products or services, which can reduce errors and bugs, as well as increase reliability and trust." (página 2)
+"The LLM improved its performance and quality after the human feedback loop, indicating that the human feedback loop was effective and beneficial for the LLM." (página 4)
