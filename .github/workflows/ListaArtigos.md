@@ -1,0 +1,3 @@
+1 - Nathan Cassee, Bogdan Vasilescu, e Alexander Serebrenik, "The Silent Helper: The Impact of Continuous Integration on Code Reviews," in Proceedings of the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), London, ON, Canada, 2020, pp. 423-434. doi: [10.1109/SANER48275.2020.9054818](https://ieeexplore.ieee.org/abstract/document/9054818).
+2 - X. Jin e F. Servant, "What Helped, and What Did Not? An Evaluation of the Strategies to Improve Continuous Integration," 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE), 2021, pp. 1-13. doi:  [10.1109/ICSE43902.2021.00031](https://ieeexplore.ieee.org/document/9401965).
+3 - 
